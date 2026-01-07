@@ -1,4 +1,4 @@
-Print("Hello World")
+Print("Hello, World")
 
 print("Test: deze wijziging is nog niet gepusht")
 
